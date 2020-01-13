@@ -1,9 +1,9 @@
 # CIELO PHP Coding Challenge
 This repo contains a modern web app.
 The app follows the **Separation of concerns** software architecture design pattern.
-The app is made in ReactJS (client side) and a Codeignater API (serverside).
-# Orquestation
-Docker will take care of all provisioning, instalation and configuration for you.
+The app is made in ReactJS (client side) and a Codeigniter API (serverside).
+# Orchestration
+Docker will take care of all provisioning, installation and configuration for you.
 Docker will create the DB Schema as well as populating the database.
 
 The default docker images in used are:
