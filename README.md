@@ -1,4 +1,4 @@
-# CIELO PHP Coding Challenge
+# Web App with Codeigniter REST API + React + Docker following Frontend Backend Separation of Concern
 This repo contains a modern web app.
 The app follows the **Separation of concerns** software architecture design pattern.
 The app is made in ReactJS (client side) and a Codeigniter API (serverside).
